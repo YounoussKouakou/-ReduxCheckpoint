@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background-color: blue;
+  display: flex;
+
+}
+
+.filter-btn {
+  background: #ddd;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.filter-btn:hover {
+  background: #bbb;
+  display: block;
+}
+h1{
+  text-align: center;
+}
